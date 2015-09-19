@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [PCBCompartimentoTelemetria.PrjPcb]
+   Generated File[PCBCompartimento.TXT]
+   Generated File[PCBCompartimento.LDP]
+   Generated File[PCBCompartimento.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 22:15:57 On 26/12/2012
